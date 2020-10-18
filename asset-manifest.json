@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/registration-form/static/css/main.36ac6385.chunk.css",
+    "main.js": "/registration-form/static/js/main.04c150ce.chunk.js",
+    "main.js.map": "/registration-form/static/js/main.04c150ce.chunk.js.map",
+    "runtime-main.js": "/registration-form/static/js/runtime-main.84d6f335.js",
+    "runtime-main.js.map": "/registration-form/static/js/runtime-main.84d6f335.js.map",
+    "static/js/2.8033d54f.chunk.js": "/registration-form/static/js/2.8033d54f.chunk.js",
+    "static/js/2.8033d54f.chunk.js.map": "/registration-form/static/js/2.8033d54f.chunk.js.map",
+    "index.html": "/registration-form/index.html",
+    "precache-manifest.de2dfedac52deb79c68aa023c93d7fa4.js": "/registration-form/precache-manifest.de2dfedac52deb79c68aa023c93d7fa4.js",
+    "service-worker.js": "/registration-form/service-worker.js",
+    "static/css/main.36ac6385.chunk.css.map": "/registration-form/static/css/main.36ac6385.chunk.css.map",
+    "static/js/2.8033d54f.chunk.js.LICENSE.txt": "/registration-form/static/js/2.8033d54f.chunk.js.LICENSE.txt",
+    "static/media/Logo.png": "/registration-form/static/media/Logo.64c8edd6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84d6f335.js",
+    "static/js/2.8033d54f.chunk.js",
+    "static/css/main.36ac6385.chunk.css",
+    "static/js/main.04c150ce.chunk.js"
+  ]
+}
