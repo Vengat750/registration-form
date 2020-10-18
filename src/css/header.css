@@ -1,0 +1,48 @@
+.header{
+    display: flex;
+    background: #2E4B64;
+    align-items: center; 
+    justify-content: space-evenly;
+}
+
+.items{
+    display: flex;
+    margin-top: 1.1rem;
+    size: 30px;
+}
+
+.heading{
+    display: flex;
+    margin-top: 0.3rem;
+    align-items: center;
+    color: #ffffff;
+    font-weight: 600;
+    font-size: 15px;
+    padding-left: 5px;
+}
+
+.active{
+    color: #ED5901;
+}
+
+.completed{
+    background: #2E4B64;
+    opacity: 50%;
+}
+
+.inactive{
+    background: #2E4B64;
+    opacity: 50%;
+}
+
+.success{    
+    font-size: 1.5em;
+    text-align : center;
+    margin-top: 20%;
+    background-color: wheat;
+    padding: 10px;
+}
+
+
+
+  

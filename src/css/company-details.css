@@ -1,0 +1,70 @@
+.checkbox-container{
+    display: flex;
+    align-items: center; 
+}
+
+.checkbox-acceptance{
+    color: rgba(10, 9, 9, 0.6);
+}
+
+.link{
+    color: #ED5901;
+}
+
+.checkbox{
+    size: 24px;
+    margin-top: 3px;  
+}
+
+.buttons{
+    display: flex;
+    width: 100%;
+    height: 40px;
+    align-items: center;  
+}
+
+.back{
+    width: 30%;
+    align-items: flex-start;
+    padding: 10px;
+    border: 1px solid #F4F6F7;
+    color: #0A0909;
+    background: #F4F6F7;
+    font-weight: 600;
+}
+
+.otp{
+    width: 70%;
+    align-items: flex-end;
+    margin-left: 2%;
+    padding: 10px;
+    background-color: #ED5901;
+    color: #ffffff;
+    border: 1px solid #cecece;
+    border-radius: 3px;
+}
+
+.logo-container{
+    display: flex;
+    align-items: center;
+    justify-items: end;
+    padding: 20px;
+    padding-left: 0px;
+}
+
+.logo{  
+    height: 80px;
+    padding-right: 20px;
+    opacity: 10%;
+}
+
+.logo-container >p{
+    color: #ED5901;
+    font-weight: 400;
+    font-size: 15px;
+    
+}
+
+.disable{
+    opacity: 50%;
+}

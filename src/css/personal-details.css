@@ -1,0 +1,107 @@
+ * {
+    box-sizing: border-box;
+  }
+  
+  /* Add padding to containers */
+  .container {
+    padding: 16px;
+    margin: auto;
+    width: 508px;
+    height: auto;
+    left: 386px;
+    top: 198px;
+    background: #FFFFFF; 
+  }
+
+  .box{
+    display: flex;
+    align-items: stretch;
+    justify-content: space-evenly;   
+  }
+
+  /* Full-width input fields */
+  input[type=text] {
+    width: 100%;
+    padding: 12px;
+    margin: 5px 0 22px 0px;
+    display: inline-block;
+    border: 1px solid #cecece !important;
+    border-radius: 3px;
+   font-size: 15px;
+   font-weight: 600;
+  }
+
+  .dropdown{
+    width: 100%;
+    padding: 12px;
+    display: inline-block;
+    border: none;
+    margin: 5px 0 22px 0px !important; 
+    border: 1px solid #cecece !important;
+    border-radius: 3px;
+  }
+
+  
+  /* Login link */
+  .signin {
+    text-align: center;
+    font-size: 15px; 
+  }
+  .signin > p{
+    color: rgba(10, 9, 9, 0.6);
+  }
+  .link{  
+    color: #ED5901;
+  }
+
+  .main-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 0px;
+  }
+
+  /* Style for gender selection*/
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-container > div {
+  width: 100px;
+  margin: 5px;
+  text-align: center;
+  padding: 10px;
+  font-size: 20px;
+  border: 0.5px solid;
+}
+
+.show{
+  background: rgba(237, 89, 1, 0.1);
+  color: #ED5901;
+  border-radius: 3px;
+}
+
+.checkbox-item{
+  border: 1px solid #cecece !important;
+  border-radius: 3px;
+  font-size: 15px !important;
+  padding: 12px;
+}
+
+.next{
+  width: 100%;
+  font-size: 15px;
+  padding: 12px;
+  background: #ED5901;
+  color: white;
+  border-radius: 3px;
+  border: 1px solid #cecece !important;
+}
+
+.disable{
+  opacity: 50%;
+}
+
+
+

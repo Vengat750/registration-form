@@ -1,0 +1,15 @@
+.description{
+    text-align: center;
+    display: block;
+    width: 508px;
+    box-sizing: border-box;
+    margin-left: 420px; 
+    margin-bottom: 15px; 
+}
+
+.description p{
+    font-size: 15px;
+}
+.description h{
+    font-size: 36px;
+}
